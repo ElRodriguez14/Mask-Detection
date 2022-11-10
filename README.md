@@ -1,30 +1,36 @@
-**Mask Detection**
+# Mask Detector
 
 Este es un proyecto que contiene una implementación para detectar por medio de imágenes cuando una persona tiene tapabocas con el objetivo de prevenir el contagio de virus.
 
-![Interfaz de usuario gráfica, Aplicación, Teams
 
-Descripción generada automáticamente](Aspose.Words.c5ef7c6f-160b-4635-944e-e07fdbb04259.001.png)
+## Objetivo 🚀
 
-**Procedimiento**
+Este proyecto contiene una implementación para detectar en una imagen de personas que están usando una mascarilla que le ayude a prevenir contagiarse del virus.
+
+<p align="center"> 
+    <img src="https://repository-images.githubusercontent.com/283315221/7c264e80-d1c1-11ea-8d13-2baec1489cd2" alt="Resultado">
+</p>
+
+## Procedimiento 🛠️
 
 El proceso general que lleva el proyecto es el siguiente:
 
-1. Importación de librerías.
-1. Descomprimir el dataset.
-1. Direccionamiento del dataset.
-1. Preprocesamiento y escalado de las imágenes.
-1. Prueba de ploteo de imágenes.
-1. Implementación de la clase ImageDataGenerator.
-1. Estructura del modelo.
-1. Detalles del modelo.
-1. Entrenamiento de la red.
-1. Resultados y gráficos.
+1. **Importación de librerías..
+2. **Descomprimir el dataset.
+3. **Direccionamiento del dataset.
+4. **Preprocesamiento y escalado de las imágenes.
+5. **Prueba de ploteo de imágenes.
+6. **Implementación de la clase ImageDataGenerator.
+7. **Estructura del modelo.
+8. **Detalles del modelo.
+9. **Entrenamiento de la red.
+10. **Resultados y gráficos.
 
-**Temas implementados**
 
-- Machine Learning.
-- Inteligencia Artificial.
-- Análisis de datos.
+## Documentación de apoyo 📚
 
+* Machine Learning.
+* Inteligencia Artificial.
+* Análisis de datos.
+* Preprocesamiento de imágenes.
 
