@@ -15,16 +15,16 @@ Este proyecto contiene una implementación para detectar en una imagen de person
 
 El proceso general que lleva el proyecto es el siguiente:
 
-1. **Importación de librerías..
-2. **Descomprimir el dataset.
-3. **Direccionamiento del dataset.
-4. **Preprocesamiento y escalado de las imágenes.
-5. **Prueba de ploteo de imágenes.
-6. **Implementación de la clase ImageDataGenerator.
-7. **Estructura del modelo.
-8. **Detalles del modelo.
-9. **Entrenamiento de la red.
-10. **Resultados y gráficos.
+1. 1Importación de librerías.
+2. Descomprimir el dataset.
+3. Direccionamiento del dataset.
+4. Preprocesamiento y escalado de las imágenes.
+5. Prueba de ploteo de imágenes.
+6. Implementación de la clase ImageDataGenerator.
+7. Estructura del modelo.
+8. Detalles del modelo.
+9. Entrenamiento de la red.
+10. Resultados y gráficos.
 
 
 ## Documentación de apoyo 📚
