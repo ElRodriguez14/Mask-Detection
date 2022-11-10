@@ -27,7 +27,7 @@ El proceso general que lleva el proyecto es el siguiente:
 10. Resultados y gráficos.
 
 
-## Documentación de apoyo 📚
+## Temas implementados 📚
 
 * Machine Learning.
 * Inteligencia Artificial.
